@@ -1,4 +1,4 @@
-# We'll use SymPy to verify four 3D vector-calculus identities symbolically.
+
 import sympy as sp
 
 # Coordinates
